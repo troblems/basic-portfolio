@@ -1,26 +1,50 @@
+<style>
+html, body{
+	height:100%;
+	margin: 0;
+}
 header{
 	font-family: Georgia, Times, 'Times New Roman', serif;
-	color:#4aaaa5;
-	background-color: #fff;
+	color: #fff;
 	border-bottom: medium;
 	border-color: #ccc;
+	padding:20px;
 
+}
+.wrapper{
+	min-height: 100%
+	margin-bottom:-50px;
+}
+h1{
+	background-color: #4aaaa5;
+	width:345px;
+	border:25px;
+	padding: 25px;
+	margin: 25px;
+	text-align: center;
 
 }
 div{
 	color:#fff;
 	border-color:;
-	background-color:#fff;
+	float: left;
 }
 p{
 	color::#777;
-	float: left;
+	
 
 }
 body{
-	background-color: #fff;
+	background-image: url("http://i.imgur.com/HIpH9XX.png");
 }
 footer{
+	border-color:#4aaaa5;
+	border-top-style: thick;
 	background-color:#666;
 	text-align: center;
 }
+.footer,
+.push{
+	height:50px;
+}
+</style>
