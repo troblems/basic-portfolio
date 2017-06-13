@@ -1,0 +1,26 @@
+header{
+	font-family: Georgia, Times, 'Times New Roman', serif;
+	color:#4aaaa5;
+	background-color: #fff;
+	border-bottom: medium;
+	border-color: #ccc;
+
+
+}
+div{
+	color:#fff;
+	border-color:;
+	background-color:#fff;
+}
+p{
+	color::#777;
+	float: left;
+
+}
+body{
+	background-color: #fff;
+}
+footer{
+	background-color:#666;
+	text-align: center;
+}
