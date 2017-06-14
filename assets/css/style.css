@@ -8,8 +8,18 @@ header{
 	color: #fff;
 	border-bottom: medium;
 	border-color: #ccc;
-	padding:20px;
+	
 
+
+}
+#nav{
+	list-style:none;
+	font-weight: bold;
+	margin-bottom: 10px;
+	width:100%;
+	text-align: right;
+	background-color: #ccc;
+	height: 38px;
 }
 .wrapper{
 	min-height: 100%
