@@ -21,10 +21,8 @@ header{
 	background-color: #ccc;
 	height: 38px;
 }
-.wrapper{
-	min-height: 100%
-	margin-bottom:-50px;
-}
+
+
 h1{
 	background-color: #4aaaa5;
 	width:345px;
